@@ -28,4 +28,7 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+
+# run all lints and tests
+$ npm run prepush
 ```
